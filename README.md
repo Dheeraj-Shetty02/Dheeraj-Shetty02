@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Dheeraj-Shetty02/Dheeraj-Shetty02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Hi 👋, I'm Dheeraj Shetty
+# Hi 👋, I'm Dheeraj Shetty
 
 ### Full-Stack Flutter Developer | Flutter | Dart | Node.js | PostgreSQL | Azure
 
@@ -185,11 +177,3 @@ I'm interested in connecting with:
 ### ⭐ Thanks for visiting my profile!
 
 Feel free to explore my repositories and projects. I'm always interested in learning, building, and collaborating on interesting software projects.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
