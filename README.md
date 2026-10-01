@@ -168,7 +168,7 @@ I'm interested in connecting with:
 * Open Source Contributors
 * Developers interested in IoT & mobile technologies
 
-📧 **Email:** [(dheerajshetty355@gmail.com
+📧 **Email:** dheerajshetty355@gmail.com
 
 💼 **LinkedIn:** [linkedin.com/in/dheeraj-shetty-83b300320/](https://www.linkedin.com/in/dheeraj-shetty-83b300320/)
 
